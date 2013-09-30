@@ -2,6 +2,7 @@ package com.c77.esteban.sensors;
 
 import java.util.List;
 
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
@@ -12,14 +13,17 @@ import android.widget.TextView;
 import android.hardware.SensorManager;
 import android.view.View;
 
+import static java.lang.Math.atan;
 
 
 public class ShowAccelerometer extends Activity implements SensorEventListener{
 
 
-    private TextView x,y,z;
+    private TextView x,y,z,XZAngle,YZAngle;
     private Sensor accelerometer;
     private boolean state;
+    private double angleXZ,angleYZ;
+    private float xVal,yVal,zVal;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +32,9 @@ public class ShowAccelerometer extends Activity implements SensorEventListener{
         x = (TextView) findViewById(R.id.xValue);
         y = (TextView) findViewById(R.id.yValue);
         z = (TextView) findViewById(R.id.zValue);
+        XZAngle = (TextView) findViewById(R.id.XZAngle);
+        YZAngle = (TextView) findViewById(R.id.YZAngle);
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
     }
 
     protected void onResume() {
@@ -66,6 +73,15 @@ public class ShowAccelerometer extends Activity implements SensorEventListener{
         this.x.setText("X = " + event.values[SensorManager.DATA_X] + "m/s2");
         this.y.setText("Y = " + event.values[SensorManager.DATA_Y] + "m/s2");
         this.z.setText("Z = " + event.values[SensorManager.DATA_Z] + "m/s2");
+        xVal = event.values[SensorManager.DATA_X];
+        yVal = event.values[SensorManager.DATA_Y];
+        zVal = event.values[SensorManager.DATA_Z];
+        angleYZ = atan((double)yVal / (double)zVal);
+        angleYZ = angleYZ*(57.2958);
+        angleXZ = atan((double)xVal / (double)zVal);
+        angleXZ = angleXZ*(57.2958);
+        this.XZAngle.setText("XZ = " + String.format("%.2f",angleXZ) + "°");
+        this.YZAngle.setText("YZ = " + String.format("%.2f",angleYZ) + "°");
     }
 
     @Override
