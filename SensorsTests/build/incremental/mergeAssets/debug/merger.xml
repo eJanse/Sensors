@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/src/debug/assets" />
+    </dataSet>
+
+</merger>

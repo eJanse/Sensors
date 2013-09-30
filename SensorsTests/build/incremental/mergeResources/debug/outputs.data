@@ -1,0 +1,21 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1380496924000 331 2101f0707e55c68c94b3ecddd386f7de6e6649ac /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/values-v11/values.xml
+1380496924000 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1380496924000 481 b001e567fba868710ac08fd693d9d9a54a779833 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/values-v14/values.xml
+1380496924000 365 8b5ecb6ced86d9b611b207ed83d85c00bdc80451 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/menu/throw_dice.xml
+1380496924000 262 b1e15d07bfc4e0a64eb74b340700e6d334df102f /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/values-sw720dp-land/values.xml
+1380496924000 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1380496924000 585 c7045240e1398f6a44bbf67a0b22b69a40128c69 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/menu/main.xml
+1380496924000 370 9537ae18fe4c589749b3b6cbc19ec88c55385f1d /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/menu/display_message.xml
+1380496924000 3121 c13193c37274d333ac028cc72c260b891662d9d0 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1380551899000 1849 769aa7dcdafd9c796a8d33252ce5b94974146b84 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/layout/activity_main.xml
+1380496924000 372 49459a47420917058f4a63f0fe91e87f71be59fe /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/menu/show_magnetometer.xml
+1380496924000 17765 702fd3311475c099afc13c0b03375d917cc82018 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1380496924000 831 b4c2c90c9934608a923b1be8934128d1b89f5329 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/layout/activity_display_message.xml
+1380559462000 373 d7d60f54e66d02a8bce0c18c2bec176d9397f6cb /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/menu/show_accelerometer.xml
+1380496924000 1194 de14ce21e9aa32e665c31e372a241792b1988cc2 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/layout/activity_give_number.xml
+1380547387000 2503 f6c29bab13a42be1966f2ad26352606fb45e4e4d /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/layout/activity_magnetometer.xml
+1380496924000 1660 f568ee4ee04e0258ed32a04917354ba1c6da4706 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/values/values.xml
+1380559462000 2458 27f635df33dc50803716f4ce8e1914abb84eab83 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/res/all/debug/layout/activity_accelerometer.xml

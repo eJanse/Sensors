@@ -1,0 +1,24 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.c77.esteban.sensors">
+
+    <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="16"/>
+
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:theme="@style/AppTheme">
+        <activity android:label="@string/app_name" android:name="com.c77.esteban.sensors.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/title_activity_display_message" android:name="com.c77.esteban.sensors.DisplayMessageActivity" android:parentActivityName="com.c77.esteban.sensors.MainActivity" android:theme="@style/AppAcTheme">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.c77.esteban.sensors.MainActivity"/>
+        </activity>
+        <activity android:label="@string/title_activity_throw_dice" android:name="com.c77.esteban.sensors.ThrowDice" android:parentActivityName="com.c77.esteban.sensors.MainActivity">
+        </activity>
+        <activity android:label="@string/title_activity_show_acelerometer" android:name="com.c77.esteban.sensors.ShowAccelerometer" android:parentActivityName="com.c77.esteban.sensors.MainActivity">
+        </activity>
+        <activity android:label="@string/title_activity_show_magnetometer" android:name="com.c77.esteban.sensors.ShowMagnetometer">
+        </activity>
+    </application>
+
+</manifest>

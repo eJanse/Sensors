@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EstebanTests</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="greetings">How are you?</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="action_search">Enter a Message</string>
+    <string name="title_activity_throw_dice">My Dice</string>
+    <string name="title_activity_show_acelerometer">ShowAcelerometer</string>
+    <string name="title_activity_show_magnetometer">showMagnetometer</string>
+
+</resources>

@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1380551437000 727 4b2671e5cd2c65f09c73f3ee100a883b526773d0 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/R.class
+1380496925000 422 b08a05c8d930042abb451a9d36141fecd9e8358e /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/R$drawable.class
+1380551437000 843 156b3e822ad5bb0eecc18bbb44cdf18693f1471d /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/R$string.class
+1380551437000 806 711e7d25cee9b3e6faca53202d363df5d1b32d04 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/R$id.class
+1380496925000 476 542e2b711ca028d0eeca27294172c3e678bbbed6 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/R$dimen.class
+1380496925000 476 6b32d14752391b972390a10896abb1228d271627 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/BuildConfig.class
+1380551437000 600 5d3b608ca6273e80bde79649525d07b7cc3a9945 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/R$layout.class
+1380551758000 3453 45e61fabab4d68e1250e40c00e9e613f3357af58 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/ShowMagnetometer.class
+1380551437000 480 121a4ba124009396f64e9c33fe0a21ca132e5c7b /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/R$style.class
+1380496925000 1784 6e1ff411a1a64326817640b533c114eb04028ade /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/ThrowDice.class
+1380551437000 558 0a612d7c7fddde378cd387b9c2e1a26b0fbe670c /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/R$menu.class
+1380496925000 355 304b8e98b3e1989b5573f6bfc9988b7042bcf92f /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/R$attr.class
+1380552160000 3484 2052489a8deacaee6c17bcb6fb1132b4f2f42436 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/ShowAccelerometer.class
+1380496925000 1909 a729c888931b492df8897e498f966d546ecfdf0d /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/DisplayMessageActivity.class
+1380552160000 2721 8d88179d9023dfdfd032707420a5568678ee3ae7 /home/trabajo/AndroidStudioProjects/SensorsTestsProject/SensorsTests/build/classes/debug/com/c77/esteban/sensors/MainActivity.class
